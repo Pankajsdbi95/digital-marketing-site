@@ -82,10 +82,10 @@ body {
   padding: 70px 10%;
   background: #f0f9ff;
 }
+  .about-img img {
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+}
 
-.about img {
-  width: 350px;
-  border-radius: 20px;
 }
 
 /* BLOG */
@@ -147,3 +147,4 @@ footer {
     margin-top: 20px;
   }
 }
+
